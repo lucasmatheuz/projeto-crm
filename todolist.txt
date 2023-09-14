@@ -1,0 +1,27 @@
+
+- CRM - CANAL COFFE TAG --  BY LUCAS --
+
+TodoList:
+
+    - Criar um ambiente virtual, instalar o Django, criar o nosso Projeto
+    - APP para as páginas do projeto (name core)
+    - Templates (home e Footer)
+    - Configurar o CSS (https://tailwindcss.com/docs/installation)
+    - Criar a Base da Aplicação
+    - Criar página Sobre 
+
+
+- Autenticação de Usuários (Criar A App NOME: user... )
+
+    - Criar o nosso banco de Dados (model)
+    - Criar o SuperUser
+    - Views
+    - Páginas (Cadastras, Logar, Sair)
+    - URLs(app user...)
+
+
+- Dashborad
+- Criar Leads
+- Editar, Deletar ou Atualizar
+- Pagamentos
+- Deploy
